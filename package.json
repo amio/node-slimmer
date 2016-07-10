@@ -1,0 +1,28 @@
+{
+  "name": "node-slimmer",
+  "version": "1.0.0",
+  "description": "Bundle JavaScript dependencies into a single entry.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bundler",
+    "bundle",
+    "cli"
+  ],
+  "license": "MIT",
+  "repository": "amio/node-slimmer",
+  "author": "Amio <amio.cn@gmail.com>",
+  "bugs": "https://github.com/amio/node-slimmer/issues",
+  "homepage": "https://github.com/amio/node-slimmer#readme",
+  "dependencies": {
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "minimist": "^1.2.0",
+    "rollup": "^0.34.0",
+    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-commonjs": "^3.1.0",
+    "rollup-plugin-json": "^2.0.1",
+    "rollup-plugin-node-resolve": "^1.7.1"
+  }
+}
