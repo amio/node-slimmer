@@ -2,7 +2,7 @@
   "name": "node-slimmer",
   "version": "1.0.0",
   "description": "Bundle JavaScript dependencies into a single entry.",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
