@@ -1,5 +1,5 @@
 {
-  "name": "node-slimmer",
+  "name": "slimmer",
   "version": "1.0.0",
   "description": "Bundle JavaScript dependencies into a single entry.",
   "main": "lib/index.js",
